@@ -7,4 +7,4 @@ I create apps and contribute to opensource to improve the developer experience.
 
 ### Languages & Tools
 
-![blender](static/blender.svg) ![c](static/c.svg) ![expressjs](static/expressjs.svg) ![illustrator](static/illustrator.svg) ![javascript](static/javascript.svg) ![knexjs](static/knexjs.svg) ![nodejs](static/nodejs.svg) ![photoshop](static/photshop.svg) ![postgresql](static/postgresql.svg) ![postman](static/postman.svg) ![python](static/python.svg) ![react](static/react.svg) ![redux](static/redux.svg) ![sass](static/sass.svg) ![tailwindcss](static/tailwindcss.svg) ![vscode](static/vscode.svg) ![xd](static/xd.svg)
+![blender](static/blender.svg) ![c](static/c.svg) ![expressjs](static/expressjs.svg) ![heroku](static/heroku.svg) ![illustrator](static/illustrator.svg) ![javascript](static/javascript.svg) ![knexjs](static/knexjs.svg) ![nodejs](static/nodejs.svg) ![photoshop](static/photshop.svg) ![postgresql](static/postgresql.svg) ![postman](static/postman.svg) ![python](static/python.svg) ![react](static/react.svg) ![redux](static/redux.svg) ![sass](static/sass.svg) ![tailwindcss](static/tailwindcss.svg) ![vscode](static/vscode.svg) ![xd](static/xd.svg)
